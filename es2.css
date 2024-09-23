@@ -1,0 +1,15 @@
+.titolo{
+  
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.par{
+    color: rgb(54, 54, 54);
+  
+}
+
+.data{
+    font-size: 12px;
+    text-align: right;
+}
